@@ -1,4 +1,8 @@
 import random
+import time
 
-random_value = random.randint(1, 100)
-print(f"O número aleatório gerado foi {random_value}")
+x = random.randint(1, 100)
+time.sleep(1)
+x = random.randint(1, 100)
+time.sleep(1)
+x = random.randint(1, 100)
